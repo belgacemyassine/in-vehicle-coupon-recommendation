@@ -1,6 +1,6 @@
 # in-vehicle-coupon-recommendation
 Stage 1 - Exploratory Data Analysis
-During Stage 1, I concentrated on exploring the data to derive insights from a statistical perspective.
+This stage focused on exploring the data to derive insights from various statistical perspectives.
 
 Key Actions:
 
@@ -9,7 +9,7 @@ Performed Univariate Analysis
 Performed Multivariate Analysis
 Generated Business Insights and Recommendations
 Stage 2 - Data Preprocessing
-In Stage 2, I prepared the data for modeling by applying various preprocessing techniques.
+This stage involved preparing the data for modeling by applying various preprocessing techniques.
 
 Key Actions:
 
@@ -21,7 +21,7 @@ Encoded Features
 Managed Class Imbalance
 Selected and Extracted Features
 Stage 3 - Modeling and Evaluation
-Stage 3 focused on training machine learning models with the processed data and evaluating their performance. I applied seven different preprocessing techniques to the dataset and tested five different models: Logistic Regression, Decision Tree, Random Forest, XGBoost, and CatBoost. The objective was not only to identify the best-performing model but also to determine the most effective preprocessing approach, as data science involves extensive experimentation.
+The focus of this stage was on training machine learning models using the processed data and evaluating their performance. Seven different preprocessing techniques were applied to the dataset, and five different models were tested: Logistic Regression, Decision Tree, Random Forest, XGBoost, and CatBoost. The objective was to identify not only the best-performing model but also the most effective preprocessing approach, recognizing the experimental nature of data science.
 
 Key Actions:
 
@@ -31,4 +31,4 @@ Applied Feature Engineering
 Conducted Model Testing
 Tuned Hyperparameters and Selected Features
 Chose the Best Model
-Evaluated Feature Impact on Model Output using SHAP Library 
+Evaluated Feature Impact on Model Output using the SHAP Library
